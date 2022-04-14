@@ -1,0 +1,54 @@
+{
+    "word": [
+        {
+            "idx": 0,
+            "con": "que",
+            "nat": "what",
+            "pos": 0,
+            "ipa": "kwe",
+            "info": ""
+        },
+        {
+            "idx": 1,
+            "con": "quøn",
+            "nat": "when",
+            "pos": -1,
+            "ipa": "kwøn",
+            "info": ""
+        },
+        {
+            "idx": 2,
+            "con": "ásgarð",
+            "nat": "Asgard",
+            "pos": 0,
+            "ipa": "awsgarð",
+            "info": ""
+        },
+        {
+            "idx": 3,
+            "con": "vøst",
+            "nat": "moon",
+            "pos": 0,
+            "ipa": "vøst",
+            "info": ""
+        },
+        {
+            "idx": 4,
+            "con": "dŵr",
+            "nat": "water",
+            "pos": 0,
+            "ipa": "du:r",
+            "info": ""
+        }
+    ],
+    "word_indexer": [],
+    "pos": [
+        {
+            "idx": 0,
+            "nam": "noun",
+            "abbr": "n",
+            "info": ""
+        }
+    ],
+    "pos_indexer": []
+}
