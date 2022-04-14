@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import QDialog
 from gui.Ui_posdialog import Ui_Dialog
-from utils.orth import Orth
+from utils.orthography.orth import Orth
 
 class POSDialog(QDialog, Ui_Dialog):
     """Dialog for adding or modifying a POS

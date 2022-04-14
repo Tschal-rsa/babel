@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import QDialog
 from gui.Ui_worddialog import Ui_Dialog
-from utils.orth import Orth
+from utils.orthography.orth import Orth
 
 class WordDialog(QDialog, Ui_Dialog):
     """Dialog for adding or modifying a word
